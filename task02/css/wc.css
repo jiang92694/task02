@@ -1,0 +1,310 @@
+body {
+     text-align: center;
+     margin: auto;
+ }
+
+ #tupian {
+     min-height: 140px;
+     background-image: url("../images/tupian.jpg");
+     background-repeat: no-repeat;
+     background-position: top;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ #daohang {
+     border-color: #006986;
+     width: 100%;
+     margin-top: -30px;
+     margin-right: auto;
+     margin-left: auto;
+     background-color: steelblue
+ }
+
+ #daohang ul {
+     height: 30px;
+     text-align: center;
+     margin-right: auto;
+     margin-left: auto;
+     list-style-type: none;
+     padding-top: 15px;
+ }
+
+ #daohang li {
+     display: inline;
+     padding-left: 15px;
+     padding-right: 15px;
+     font-size: 18px;
+ }
+
+ #all {
+     width: 1040px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ #ban1 {
+     float: left;
+     width: 70%;
+     height: 260px;
+     border: 2px solid lightgrey;
+ }
+
+ #chatu {
+     min-height: 260px;
+     width: 300px;
+     border-width: 260px;
+     background-image: url("../images/chatu.jpg");
+     background-repeat: no-repeat;
+ }
+
+ #ti1 {
+     float: left;
+     margin-top: -280px;
+     margin-left: 330px;
+     width: 53%;
+     border-bottom: 2px solid steelblue;
+     height: 50px;
+ }
+
+ #more {
+     float: right;
+     margin-left: 40px;
+     margin-top: 30px;
+ }
+
+ #ti1 h2 {
+     float: left;
+     margin-left: -10px;
+ }
+
+ p {
+     font-size: 25px;
+     color: red;
+     font-weight: 700;
+     margin-top: -210px;
+     margin-left: 300px;
+ }
+
+ #lie1 {
+     float: left;
+     margin-top: -190px;
+     margin-left: 300px;
+ }
+
+ ul {
+     text-align: left;
+     font-size: 15px;
+ }
+
+ li {
+     padding-top: 2px;
+ }
+
+ #dizi {
+     float: left;
+     margin-left: -650px;
+     margin-top: 190px;
+ }
+
+ #ti2 {
+     float: right;
+     margin-top: -18px;
+     margin-left: 5px;
+     margin-right: 20px;
+     width: 85%;
+     border-bottom: 2px solid steelblue;
+     height: 50px;
+ }
+
+ #ti2 h2 {
+     float: left;
+     height: 10px;
+ }
+
+ #lie2 {
+     padding-top: 40px;
+ }
+
+ #lie2 li {
+     padding-top: 10px;
+     font-size: 15px;
+ }
+
+ #ban2 {
+     border: 2px solid lightgrey;
+     width: 28%;
+     height: 260px;
+     float: right;
+ }
+
+ #ban3 {
+     border-bottom: 2px solid lightgrey;
+     border-left: 2px solid lightgrey;
+     border-top: 2px solid lightgrey;
+     border-right: 2px dashed lightgray;
+     float: left;
+     margin-top: 10px;
+     width: 30%;
+     height: 270px;
+ }
+
+ #ti3 {
+     float: left;
+     margin-top: 0px;
+     margin-left: 0px;
+     width: 100%;
+     border-bottom: 2px solid steelblue;
+     height: 50px;
+ }
+
+ #ti3 h2 {
+     float: left;
+ }
+
+ #lie3 {
+     float: left;
+     margin-top: -10px;
+     margin-left: 0px;
+ }
+
+ #lie3 li {
+     padding-top: 10px;
+     font-size: 15px;
+ }
+
+ #ban4 {
+     float: left;
+     margin-left: 0%;
+     margin-top: 10px;
+     height: 270px;
+     border-bottom: 2px solid lightgrey;
+     border-right: 2px solid lightgrey;
+     border-top: 2px solid lightgrey;
+     width: 28%;
+ }
+
+ #ti4 {
+     float: left;
+     margin-top: 2px;
+     margin-left: 0px;
+     width: 100%;
+     border-bottom: 2px solid steelblue;
+     height: 48px;
+ }
+
+ #ti4 h2 {
+     float: left;
+ }
+
+ #lie4 {
+     float: left;
+     margin-top: 5px;
+     margin-left: 0px;
+ }
+
+ #lie4 li {
+     padding-top: 10px;
+     font-size: 15px;
+ }
+
+ #bt {
+     background-image: url("../images/bt_03.jpg");
+     min-height: 214px;
+     width: 49px;
+     float: left;
+     margin-top: 65px;
+     margin-left: -24px;
+ }
+
+ #ban5 {
+     float: right;
+     margin-top: -269px;
+     height: 270px;
+     border-bottom: 2px solid lightgrey;
+     border-right: 2px solid lightgrey;
+     border-left: 2px solid lightgrey;
+     border-top: 2px solid lightgrey;
+     width: 41%;
+ }
+
+ #ti5 h2 {
+     float: left;
+ }
+
+ #ti5 {
+     margin-top: 2px;
+     margin-left: 0px;
+     width: 100%;
+     border-bottom: 2px solid steelblue;
+     height: 48px;
+ }
+
+ #lie5 {
+     float: left;
+     margin-top: -20px;
+     margin-right: 80px;
+ }
+
+ #lie5 li {
+     padding-top: 10px;
+     font-size: 15px;
+ }
+
+ #ban6 {
+     width: 1045px;
+     height: 50px;
+     position: absolute;
+     top: 740px;
+     background-color: steelblue;
+ }
+
+ #ban6 h3 {
+     background-image: url("../images/dianhua.jpg");
+     height: 37px;
+     width: 35px;
+     margin-top: 5px;
+     margin-left: 10px;
+     display: block;
+ }
+
+ #lie6 {
+     height: 30px;
+     text-align: center;
+     margin-right: auto;
+     margin-left: auto;
+     list-style-type: none;
+     margin-top: -45px;
+ }
+
+ #lie6 li {
+     width: 20px;
+     display: inline;
+     padding-left: 25px;
+     padding-right: 25px;
+     margin-left: 120px;
+     font-size: 18px;
+     background-color: ghostwhite
+ }
+
+ #wei {
+     position: absolute;
+     top: 795px;
+     background: lightgrey;
+     width: 100%;
+     height: 110px;
+     border-top: 5px solid cadetblue;
+     margin-right: auto;
+     margin-left: auto;
+    
+ }
+
+ #wei li {
+     text-align: center;
+     list-style: none;
+     color: cadetblue;
+ }
+
+ h2 {
+     color: cadetblue;
+ }
